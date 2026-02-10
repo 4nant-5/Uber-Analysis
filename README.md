@@ -46,6 +46,8 @@ Saving Cleaned Data:
 
 Saved the cleaned and processed DataFrame to a new CSV file.
 ## Dashboard Insights
+<img width="1163" height="656" alt="image" src="https://github.com/user-attachments/assets/4ce4ac95-a1e7-42a1-aec7-df11884bf885" />
+
 The dashboard visualizes key insights from the analysis:
 
 Count of CATEGORY by CATEGORY: Shows the distribution of rides by business and personal categories.
